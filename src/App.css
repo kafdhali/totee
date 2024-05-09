@@ -1,0 +1,50 @@
+#root {
+  --primary: #8e2e5c;
+  --surface: #ece7e3;
+  background-color: var(--surface);
+  color: var(--primary);
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.card {
+  display: flex;
+  width: min-content;
+  flex-direction: column;
+  padding: 2em;
+  border: 0.5em solid var(--primary);
+  align-items: center;
+}
+
+.card > img {
+  height: 400px;
+}
+
+.read-the-docs {
+  color: #888;
+}

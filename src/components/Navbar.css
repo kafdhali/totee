@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  font-weight: bold;
+  padding: 24px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: stretch;
+  gap: 40px;
+}
+
+.nav-action {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.categories>li {
+  display: inline;
+  gap: 24px;
+  margin-right: 15px;
+}

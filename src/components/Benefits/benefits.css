@@ -1,0 +1,33 @@
+.benefit-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.benfit-image-container {
+  width: 80px;
+  height: 80px;
+  background-color: #8991d8;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.benefit-image {
+  width: 40px;
+  height: 40px;
+}
+
+.benefit-title-container {
+  font-weight: bold;
+}
+
+.benefit-title-container h3 {
+  color: black;
+  text-transform: capitalize;
+}
+
+.benefit-text-container {
+  max-width: 450px;
+  color: gray;
+}

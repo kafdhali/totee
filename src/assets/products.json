@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Ramen Cat Kawaii Tote Bag",
+    "description": "Ramen Cat Kawaii Anime Japanese Kawaii Cartoon Manga Lovers Tote Bag",
+    "price": 25.99,
+    "discountPercentage": 0,
+    "rating": 7,
+    "stock": 120,
+    "category": "Bags",
+    "thumbnail": "https://i.ibb.co/pW7B5jp/1-Photoroom-png-Photoroom.png",
+    "images":"https://i.ibb.co/f8gzLd7/1-Photoroom-png-Photoroom.png" 
+  },
+  {
+    "id": 2,
+    "title": "Kawaii Cat Under Cherry Blossom Tote",
+    "description": "Kawaii Cat Under Cherry Blossom Flower Sushi Rolls Anime Tote Bag",
+    "price": 19.99,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 80,
+    "category": "Bags",
+    "thumbnail": "https://m.media-amazon.com/images/I/71odkRayjYL._AC_AA300_.jpg",
+    "images":"https://i.ibb.co/CJ7VSkB/2-Photoroom-png-Photoroom.png" 
+},
+
+  {
+    "id": 3,
+    "title": "Eco-Friendly Reusable Tote",
+    "description": "A sustainable tote bag made from recycled materials.",
+    "price": 15.50,
+    "discountPercentage": 5,
+    "rating": 8,
+    "stock": 100,
+    "category": "Bags",
+    "thumbnail": "https://i.ibb.co/NmvjL03/3-Photoroom-png-Photoroom.png",
+    "images":"https://i.ibb.co/pR7z3HP/3-Photoroom-png-Photoroom.png" 
+
+  },
+  {
+    "id": 4,
+    "title": "Japanese Koi Carp Fish Tote",
+    "description": "Japanese Koi Carp Fish",
+    "price": 49.99,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "stock": 60,
+    "category": "Bags",
+    "thumbnail": "https://i.ibb.co/QQKwPVh/4-Photoroom-png-Photoroom.png",
+    "images":"https://i.ibb.co/DWR29Fm/4-Photoroom-png-Photoroom.png" 
+
+  },
+  {
+    "id": 5,
+    "title": "Cottagecore Aesthetic Bunny Tote",
+    "description": "Cottagecore Aesthetic Bunny Playing Banjo Guitar",
+    "price": 29.99,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "stock": 90,
+    "category": "Bags",
+    "thumbnail": "https://i.ibb.co/KVXP5FK/5-Photoroom-png-Photoroom.png",
+    "images":"https://i.ibb.co/QYfgJrD/5-Photoroom-png-Photoroom.png" 
+  },
+  {
+    "id": 6,
+    "title": "Traveler's Tote Bag",
+    "description": "A spacious tote bag with multiple compartments for travelers.",
+    "price": 34.99,
+    "discountPercentage": 0,
+    "rating": 7,
+    "stock": 75,
+    "category": "Bags",
+    "thumbnail": "https://i.ibb.co/Y21pcQ8/6-Photoroom-png-Photoroom.png",
+    "images":"https://i.ibb.co/SNMRty0/6-Photoroom-png-Photoroom.png" 
+  }
+]

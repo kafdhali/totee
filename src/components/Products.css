@@ -1,0 +1,34 @@
+.ProductList {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 24px;
+  justify-content: center;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 2em;
+  border: 0.5em solid var(--primary);
+  align-items: center;
+  border-radius: 16px;
+  width: auto;
+}
+
+.card > img {
+  height: 240px;
+}
+
+.btn-counter {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 18px;
+  margin: 8px;
+  background-color: var(--primary);
+  color: white;
+}
+
+.btn-delete {
+  background-color: transparent;
+}
