@@ -1,6 +1,10 @@
+#root {
+  height: 100%;
+}
 .container {
   max-width: 400px;
   margin: 0 auto;
+  height: 100vh;
 }
 
 .contact-us-container h2 {
